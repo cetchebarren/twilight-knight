@@ -14,7 +14,7 @@ This project serves as a scalable sandbox for gameplay architecture, tooling, an
 - Blaze AI Framework — heavily modified for navigation, perception, and behavior states  
 - Custom Unity Tools — editors & inspectors
 - JSON Serialization — saving & loading
-- Art tools: Procreate, Photoshop, some Blender
+- Art Tools: Procreate, Photoshop, some Blender
 
 ---
 
