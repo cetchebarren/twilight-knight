@@ -1,15 +1,19 @@
 # Twilight Knight — Unity Action RPG Prototype
 
-Twilight Knight is a massive systems‑driven action RPG prototype built in Unity using C#.  
-It explores the full range of modern RPG mechanics: character creation, combat, traversal, AI, progression, quests, dialogue, world interaction, saving/loading, and more.  
+Twilight Knight is a massive, systems‑driven action RPG prototype built in Unity using C#.
+It explores the full range of modern RPG mechanics — character creation, combat, traversal, AI, progression, quests, dialogue, world interaction, saving/loading, and more.
 
-This project serves as a scalable sandbox for gameplay architecture, tooling, and system design.
+Nearly every system in Twilight Knight is fully custom‑built, from gameplay architecture to UI and tooling. Only a few specialized utilities are external, such as the modified BlazeAI navigation framework and PolyFew for LOD generation.
+
+This project serves as a scalable sandbox for gameplay architecture, tooling, and system design — and as my personal attempt to learn, practice, and implement as many modern game‑industry features as possible.
+
+Project overview & showcase: https://cetchebarren.github.io/projects/twilight-knight.html
 
 ---
 
 ## 🧰 Tech Stack
 
-- Unity (C#) — engine, gameplay systems, animation, physics  
+- Unity (C#) — engine, gameplay systems, animation, physics  — *hundreds of custom scripts, tens of thousands of lines of code*
 - ScriptableObjects — stats, items, skills, modifiers, loot tables  
 - Blaze AI Framework — heavily modified for navigation, perception, and behavior states  
 - Custom Unity Tools — editors & inspectors
