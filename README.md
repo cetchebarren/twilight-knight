@@ -7,7 +7,7 @@ Nearly every system in Twilight Knight is fully custom‑built, from gameplay ar
 
 This project serves as a scalable sandbox for gameplay architecture, tooling, and system design — and as my personal attempt to learn, practice, and implement as many modern game‑industry features as possible.
 
-Project overview & showcase: https://cetchebarren.github.io/projects/twilight-knight.html
+Project overview & showcase: **https://cetchebarren.github.io/projects/twilight-knight.html**
 
 ---
 
